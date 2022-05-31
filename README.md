@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hai, I am Drelicious.
+![alt text](https://github.com/Drelicious/Drelicious/blob/main/me.png?raw=true)
 <!--
 **Drelicious/Drelicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
