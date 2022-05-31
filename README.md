@@ -3,7 +3,7 @@
 
 I am a student who enjoy the digital world, and want to make a use of the technology to hopefully contribute to the society. I enjoy working with JAVA, PHP, and Javascript. 
 
-# Where you can contact me?
+# Where can you contact me?
 - Discord : Drelicious#7232
 <!--
 **Drelicious/Drelicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
