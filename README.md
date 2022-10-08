@@ -1,7 +1,7 @@
 ### Hai, I am Drelicious.
 ![alt text](https://github.com/Drelicious/Drelicious/blob/main/me.png?raw=true)
 
-I am a student who enjoy the digital world, and want to make a use of technology to hopefully contribute to the society. I enjoy working with JAVA, PHP, and Javascript. 
+I am a student who enjoy the digital world, and want to make a use of technology to hopefully contribute to the society. I enjoy working with JAVA, PHP, C#. and Javascript. 
 
 # Where can you contact me?
 - Discord : Drelicious#7232
